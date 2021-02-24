@@ -1,0 +1,193 @@
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\WebAPI_SQLserver_React.dll.config
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\WebAPI_SQLserver_React.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\WebAPI_SQLserver_React.pdb
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csc.exe
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csc.exe.config
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csc.rsp
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csi.exe
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csi.exe.config
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csi.rsp
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.Managed.Core.targets
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.AppContext.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Collections.Immutable.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Console.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Globalization.Calendars.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.IO.Compression.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.IO.FileSystem.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Net.Http.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Net.Sockets.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Reflection.Metadata.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.ValueTuple.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Xml.XmlDocument.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Xml.XPath.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\vbc.exe
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\vbc.exe.config
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\vbc.rsp
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\VBCSCompiler.exe
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\VBCSCompiler.exe.config
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Antlr3.Runtime.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Microsoft.Web.Infrastructure.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Newtonsoft.Json.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Net.Http.Formatting.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Helpers.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Http.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Http.WebHost.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Mvc.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Optimization.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Razor.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.Deployment.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.Razor.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\WebGrease.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Newtonsoft.Json.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Net.Http.Formatting.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Helpers.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Http.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Http.WebHost.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Mvc.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Optimization.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Razor.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.Deployment.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.Razor.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Antlr3.Runtime.pdb
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Helpers.resources.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Http.resources.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Mvc.resources.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Optimization.resources.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Razor.resources.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.WebPages.resources.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\obj\Debug\WebAPI_SQLserver_React.csprojAssemblyReference.cache
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\obj\Debug\WebAPI_SQLserver_React.csproj.CoreCompileInputs.cache
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\obj\Debug\WebAPI_SQLserver_React.csproj.CopyComplete
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\obj\Debug\WebAPI_SQLserver_React.dll
+C:\react_sqlServer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\obj\Debug\WebAPI_SQLserver_React.pdb
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\WebAPI_SQLserver_React.dll.config
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\WebAPI_SQLserver_React.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\WebAPI_SQLserver_React.pdb
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csc.exe
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csc.exe.config
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csc.rsp
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csi.exe
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csi.exe.config
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\csi.rsp
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.Managed.Core.targets
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.AppContext.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Collections.Immutable.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Console.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Globalization.Calendars.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.IO.Compression.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.IO.FileSystem.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Net.Http.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Net.Sockets.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Reflection.Metadata.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.ValueTuple.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Xml.XmlDocument.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Xml.XPath.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\vbc.exe
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\vbc.exe.config
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\vbc.rsp
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\VBCSCompiler.exe
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\roslyn\VBCSCompiler.exe.config
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Antlr3.Runtime.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Microsoft.Web.Infrastructure.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Newtonsoft.Json.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Net.Http.Formatting.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Cors.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Helpers.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Http.Cors.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Http.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Http.WebHost.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Mvc.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Optimization.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Razor.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.Deployment.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.Razor.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\WebGrease.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Http.Cors.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Newtonsoft.Json.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Net.Http.Formatting.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Helpers.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Http.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Http.WebHost.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Mvc.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Optimization.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.Razor.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.Deployment.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\System.Web.WebPages.Razor.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Antlr3.Runtime.pdb
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Helpers.resources.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Http.resources.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Mvc.resources.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Optimization.resources.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.Razor.resources.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.WebPages.resources.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\obj\Debug\WebAPI_SQLserver_React.csprojAssemblyReference.cache
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\obj\Debug\WebAPI_SQLserver_React.csproj.CoreCompileInputs.cache
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\obj\Debug\WebAPI_SQLserver_React.csproj.CopyComplete
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\obj\Debug\WebAPI_SQLserver_React.dll
+C:\React_sqlServer_Art of Engineer\WebAPI_SQLserver_React\WebAPI_SQLserver_React\obj\Debug\WebAPI_SQLserver_React.pdb
